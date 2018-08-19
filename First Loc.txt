@@ -1,0 +1,9 @@
+http://wikimapia.org/38494459/Unexcavated-Ruins
+
+lat=-8.222916
+lon=-78.383503
+
+#Peru
+#Terracing
+#Structures
+#Found via SatImg
